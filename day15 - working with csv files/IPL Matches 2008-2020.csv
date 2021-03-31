@@ -1,0 +1,817 @@
+id,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,eliminator,method,umpire1,umpire2
+335982,Bangalore,2008-04-18,BB McCullum,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140,N,NA,Asad Rauf,RE Koertzen
+335983,Chandigarh,2008-04-19,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33,N,NA,MR Benson,SL Shastri
+335984,Delhi,2008-04-19,MF Maharoof,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Delhi Daredevils,wickets,9,N,NA,Aleem Dar,GA Pratapkumar
+335985,Mumbai,2008-04-20,MV Boucher,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,5,N,NA,SJ Davis,DJ Harper
+335986,Kolkata,2008-04-20,DJ Hussey,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,bat,Kolkata Knight Riders,wickets,5,N,NA,BF Bowden,K Hariharan
+335987,Jaipur,2008-04-21,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,RB Tiffin
+335988,Hyderabad,2008-04-22,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9,N,NA,IL Howell,AM Saheba
+335989,Chennai,2008-04-23,ML Hayden,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6,N,NA,DJ Harper,GA Pratapkumar
+335990,Hyderabad,2008-04-24,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,Asad Rauf,MR Benson
+335991,Chandigarh,2008-04-25,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,66,N,NA,Aleem Dar,AM Saheba
+335992,Bangalore,2008-04-26,SR Watson,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,MR Benson,IL Howell
+335993,Chennai,2008-04-26,JDP Oram,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9,N,NA,BF Bowden,AV Jayaprakash
+335994,Mumbai,2008-04-27,AC Gilchrist,Dr DY Patil Sports Academy,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,10,N,NA,Asad Rauf,SL Shastri
+335995,Chandigarh,2008-04-27,SM Katich,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,bat,Kings XI Punjab,wickets,4,N,NA,RE Koertzen,I Shivram
+335996,Bangalore,2008-04-28,MS Dhoni,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,13,N,NA,BR Doctrove,RB Tiffin
+335997,Kolkata,2008-04-29,ST Jayasuriya,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7,N,NA,BF Bowden,AV Jayaprakash
+335998,Delhi,2008-04-30,GD McGrath,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,runs,10,N,NA,Aleem Dar,I Shivram
+335999,Hyderabad,2008-05-01,SE Marsh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,BR Doctrove,RB Tiffin
+336000,Jaipur,2008-05-01,SA Asnodkar,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45,N,NA,RE Koertzen,GA Pratapkumar
+336001,Chennai,2008-05-02,V Sehwag,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,8,N,NA,BF Bowden,K Hariharan
+336002,Hyderabad,2008-05-25,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,5,N,NA,Asad Rauf,RE Koertzen
+336003,Chandigarh,2008-05-03,IK Pathan,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,runs,9,N,NA,DJ Harper,I Shivram
+336004,Mumbai,2008-05-04,SM Pollock,Dr DY Patil Sports Academy,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,29,N,NA,IL Howell,RE Koertzen
+336005,Jaipur,2008-05-04,Sohail Tanvir,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8,N,NA,Asad Rauf,AV Jayaprakash
+336006,Bangalore,2008-05-05,S Sreesanth,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,SJ Davis,BR Doctrove
+336007,Chennai,2008-05-06,AC Gilchrist,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7,N,NA,MR Benson,RB Tiffin
+336008,Mumbai,2008-05-07,A Nehra,Dr DY Patil Sports Academy,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,7,N,NA,DJ Harper,RE Koertzen
+336009,Delhi,2008-05-08,MS Dhoni,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,N,NA,Aleem Dar,RB Tiffin
+336010,Kolkata,2008-05-08,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5,N,NA,Asad Rauf,IL Howell
+336011,Jaipur,2008-05-09,YK Pathan,Sawai Mansingh Stadium,0,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,MR Benson,AM Saheba
+336012,Bangalore,2008-05-28,CRD Fernando,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9,N,NA,BF Bowden,AV Jayaprakash
+336013,Chennai,2008-05-10,L Balaji,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,18,N,NA,AV Jayaprakash,BG Jerling
+336014,Hyderabad,2008-05-11,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23,N,NA,IL Howell,AM Saheba
+336015,Jaipur,2008-05-11,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,SJ Davis,RE Koertzen
+336016,Chandigarh,2008-05-12,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,9,N,NA,BR Doctrove,I Shivram
+336017,Kolkata,2008-05-13,Shoaib Akhtar,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23,N,NA,Asad Rauf,IL Howell
+336018,Mumbai,2008-05-14,ST Jayasuriya,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,9,N,NA,BR Doctrove,AM Saheba
+336019,Chandigarh,2008-05-28,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,41,N,NA,SJ Davis,K Hariharan
+336020,Delhi,2008-05-15,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,runs,12,N,NA,BG Jerling,GA Pratapkumar
+336021,Mumbai,2008-05-16,SM Pollock,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,BR Doctrove,DJ Harper
+336022,Delhi,2008-05-17,DPMD Jayawardene,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,runs,6,N,D/L,AV Jayaprakash,RE Koertzen
+336023,Jaipur,2008-05-17,GC Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,65,N,NA,BF Bowden,SL Shastri
+336024,Hyderabad,2008-05-18,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,25,N,NA,BR Doctrove,DJ Harper
+336025,Kolkata,2008-05-18,M Ntini,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,runs,3,N,D/L,Asad Rauf,K Hariharan
+336026,Bangalore,2008-05-19,SP Goswami,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5,N,NA,SJ Davis,GA Pratapkumar
+336027,Kolkata,2008-05-20,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,BG Jerling,RE Koertzen
+336028,Mumbai,2008-05-21,SE Marsh,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,1,N,NA,BF Bowden,GA Pratapkumar
+336029,Chennai,2008-05-21,A Kumble,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,14,N,NA,DJ Harper,I Shivram
+336031,Chandigarh,2008-05-23,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,Asad Rauf,SJ Davis
+336032,Delhi,2008-05-24,KD Karthik,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,5,N,NA,BF Bowden,K Hariharan
+336033,Chennai,2008-05-24,JA Morkel,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10,N,NA,DJ Harper,SL Shastri
+336034,Bangalore,2008-05-03,P Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,runs,3,N,NA,BR Doctrove,SL Shastri
+336035,Kolkata,2008-05-25,Umar Gul,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,3,N,NA,SJ Davis,I Shivram
+336036,Jaipur,2008-05-26,Sohail Tanvir,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,BF Bowden,K Hariharan
+336037,Hyderabad,2008-05-27,SK Raina,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Chennai Super Kings,wickets,7,N,NA,BG Jerling,AM Saheba
+336038,Mumbai,2008-05-30,SR Watson,Wankhede Stadium,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,field,Rajasthan Royals,runs,105,N,NA,BF Bowden,RE Koertzen
+336039,Mumbai,2008-05-31,M Ntini,Wankhede Stadium,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Chennai Super Kings,wickets,9,N,NA,Asad Rauf,DJ Harper
+336040,Mumbai,2008-06-01,YK Pathan,Dr DY Patil Sports Academy,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,BF Bowden,RE Koertzen
+392181,Cape Town,2009-04-18,SR Tendulkar,Newlands,1,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19,N,NA,BR Doctrove,K Hariharan
+392182,Cape Town,2009-04-18,R Dravid,Newlands,1,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75,N,NA,BR Doctrove,RB Tiffin
+392183,Cape Town,2009-04-19,DL Vettori,Newlands,1,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,10,N,D/L,MR Benson,SD Ranade
+392184,Cape Town,2009-04-19,RP Singh,Newlands,1,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Deccan Chargers,wickets,8,N,NA,MR Benson,BR Doctrove
+392185,Port Elizabeth,2009-04-20,M Muralitharan,St George's Park,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92,N,NA,BG Jerling,SJA Taufel
+392186,Durban,2009-04-21,CH Gayle,Kingsmead,1,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,11,N,D/L,DJ Harper,SD Ranade
+392188,Cape Town,2009-04-22,AC Gilchrist,Newlands,1,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24,N,NA,M Erasmus,AM Saheba
+392189,Durban,2009-04-23,AB de Villiers,Kingsmead,1,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,9,N,NA,BR Doctrove,SJA Taufel
+392190,Cape Town,2009-04-23,YK Pathan,Newlands,1,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,NA,Y,NA,MR Benson,M Erasmus
+392191,Durban,2009-04-24,RS Bopara,Kingsmead,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,7,N,NA,BR Doctrove,TH Wijewardene
+392192,Durban,2009-04-25,PP Ojha,Kingsmead,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12,N,NA,HDPK Dharmasena,SJA Taufel
+392194,Port Elizabeth,2009-04-26,TM Dilshan,St George's Park,1,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,wickets,6,N,NA,S Asnani,BG Jerling
+392195,Cape Town,2009-04-26,KC Sangakkara,Newlands,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27,N,NA,M Erasmus,K Hariharan
+392196,Durban,2009-04-27,HH Gibbs,Kingsmead,1,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,IL Howell,TH Wijewardene
+392197,Port Elizabeth,2009-04-27,SR Tendulkar,St George's Park,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92,N,NA,BG Jerling,RB Tiffin
+392198,Centurion,2009-04-28,YK Pathan,SuperSport Park,1,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,wickets,5,N,NA,GAV Baxter,RE Koertzen
+392199,Durban,2009-04-29,MV Boucher,Kingsmead,1,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,5,N,NA,MR Benson,TH Wijewardene
+392200,Durban,2009-04-29,KC Sangakkara,Kingsmead,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,runs,3,N,NA,MR Benson,SL Shastri
+392201,Centurion,2009-04-30,DP Nannes,SuperSport Park,1,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6,N,NA,GAV Baxter,AM Saheba
+392202,Centurion,2009-04-30,SK Raina,SuperSport Park,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38,N,NA,GAV Baxter,RE Koertzen
+392203,East London,2009-05-01,JP Duminy,Buffalo Park,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9,N,NA,M Erasmus,SK Tarapore
+392204,Durban,2009-05-01,Yuvraj Singh,Kingsmead,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8,N,NA,HDPK Dharmasena,S Ravi
+392205,Port Elizabeth,2009-05-02,YK Pathan,St George's Park,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,3,N,NA,S Asnani,BG Jerling
+392206,Johannesburg,2009-05-02,SB Jakati,New Wanderers Stadium,1,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,18,N,NA,DJ Harper,RE Koertzen
+392207,Port Elizabeth,2009-05-03,DPMD Jayawardene,St George's Park,1,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,6,N,NA,S Asnani,MR Benson
+392208,Johannesburg,2009-05-03,JH Kallis,New Wanderers Stadium,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,9,N,NA,RE Koertzen,TH Wijewardene
+392209,East London,2009-05-04,MS Dhoni,Buffalo Park,1,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,78,N,NA,BR Doctrove,M Erasmus
+392210,Durban,2009-05-05,GC Smith,Kingsmead,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78,N,NA,SS Hazare,IL Howell
+392211,Durban,2009-05-05,G Gambhir,Kingsmead,1,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,9,N,NA,GAV Baxter,IL Howell
+392212,Centurion,2009-05-06,RG Sharma,SuperSport Park,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,19,N,NA,MR Benson,HDPK Dharmasena
+392213,Centurion,2009-05-07,A Singh,SuperSport Park,1,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,K Hariharan,DJ Harper
+392214,Centurion,2009-05-07,ML Hayden,SuperSport Park,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,12,N,D/L,DJ Harper,TH Wijewardene
+392215,East London,2009-05-08,A Nehra,Buffalo Park,1,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,7,N,NA,M Erasmus,SK Tarapore
+392216,Kimberley,2009-05-09,DPMD Jayawardene,De Beers Diamond Oval,1,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,3,N,NA,GAV Baxter,AM Saheba
+392217,Kimberley,2009-05-09,S Badrinath,De Beers Diamond Oval,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7,N,NA,GAV Baxter,HDPK Dharmasena
+392218,Port Elizabeth,2009-05-10,JP Duminy,St George's Park,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16,N,NA,BR Doctrove,BG Jerling
+392219,Johannesburg,2009-05-10,A Mishra,New Wanderers Stadium,1,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,SL Shastri,RB Tiffin
+392220,Kimberley,2009-05-11,DR Smith,De Beers Diamond Oval,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53,N,NA,GAV Baxter,HDPK Dharmasena
+392221,Centurion,2009-05-12,LRPL Taylor,SuperSport Park,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6,N,NA,M Erasmus,SS Hazare
+392222,Centurion,2009-05-12,Harbhajan Singh,SuperSport Park,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,8,N,NA,SS Hazare,RE Koertzen
+392223,Durban,2009-05-13,R Bhatia,Kingsmead,1,Deccan Chargers,Delhi Daredevils,Deccan Chargers,field,Delhi Daredevils,runs,12,N,NA,DJ Harper,SL Shastri
+392224,Durban,2009-05-14,LRPL Taylor,Kingsmead,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,2,N,NA,BR Doctrove,DJ Harper
+392225,Durban,2009-05-14,SK Warne,Kingsmead,1,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2,N,NA,BR Doctrove,DJ Harper
+392226,Bloemfontein,2009-05-15,B Lee,OUTsurance Oval,1,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,HDPK Dharmasena,IL Howell
+392227,Port Elizabeth,2009-05-16,ML Hayden,St George's Park,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7,N,NA,SK Tarapore,SJA Taufel
+392228,Johannesburg,2009-05-16,RG Sharma,New Wanderers Stadium,1,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,RE Koertzen,S Ravi
+392229,Johannesburg,2009-05-17,Yuvraj Singh,New Wanderers Stadium,1,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1,N,NA,S Ravi,RB Tiffin
+392230,Bloemfontein,2009-05-17,AB de Villiers,OUTsurance Oval,1,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,14,N,NA,SS Hazare,IL Howell
+392231,Centurion,2009-05-18,BJ Hodge,SuperSport Park,1,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,7,N,NA,SJA Taufel,RB Tiffin
+392232,Johannesburg,2009-05-19,JH Kallis,New Wanderers Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,bat,Royal Challengers Bangalore,wickets,7,N,NA,IL Howell,RB Tiffin
+392233,Durban,2009-05-20,LR Shukla,Kingsmead,1,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,N,NA,BG Jerling,SJA Taufel
+392234,Durban,2009-05-20,M Muralitharan,Kingsmead,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,24,N,NA,BG Jerling,SJA Taufel
+392235,Centurion,2009-05-21,V Sehwag,SuperSport Park,1,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,4,N,NA,IL Howell,S Ravi
+392236,Centurion,2009-05-21,MK Pandey,SuperSport Park,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12,N,NA,IL Howell,S Ravi
+392237,Centurion,2009-05-22,AC Gilchrist,SuperSport Park,1,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,BR Doctrove,DJ Harper
+392238,Johannesburg,2009-05-23,MK Pandey,New Wanderers Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6,N,NA,RE Koertzen,SJA Taufel
+392239,Johannesburg,2009-05-24,A Kumble,New Wanderers Stadium,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Deccan Chargers,runs,6,N,NA,RE Koertzen,SJA Taufel
+419106,Mumbai,2010-03-12,AD Mathews,Dr DY Patil Sports Academy,0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,11,N,NA,RE Koertzen,RB Tiffin
+419107,Mumbai,2010-03-13,YK Pathan,Brabourne Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,4,N,NA,RE Koertzen,RB Tiffin
+419108,Chandigarh,2010-03-13,G Gambhir,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5,N,NA,BR Doctrove,S Ravi
+419109,Kolkata,2010-03-14,MK Tiwary,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,HDPK Dharmasena,AM Saheba
+419110,Chennai,2010-03-14,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,31,N,NA,K Hariharan,DJ Harper
+419111,Ahmedabad,2010-03-15,V Sehwag,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6,N,NA,BG Jerling,RE Koertzen
+419112,Bangalore,2010-03-16,JH Kallis,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,8,N,NA,S Das,DJ Harper
+419113,Kolkata,2010-03-16,MS Dhoni,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,55,N,NA,HDPK Dharmasena,AM Saheba
+419114,Delhi,2010-03-17,SR Tendulkar,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,98,N,NA,BR Doctrove,SK Tarapore
+419115,Bangalore,2010-03-18,JH Kallis,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10,N,NA,K Hariharan,DJ Harper
+419116,Delhi,2010-03-19,ML Hayden,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,wickets,5,N,NA,BR Doctrove,SK Tarapore
+419117,Cuttack,2010-03-19,A Symonds,Barabati Stadium,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,runs,6,N,NA,BF Bowden,M Erasmus
+419118,Ahmedabad,2010-03-20,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34,N,NA,RE Koertzen,RB Tiffin
+419119,Mumbai,2010-03-20,JH Kallis,Brabourne Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,7,N,NA,HDPK Dharmasena,SS Hazare
+419120,Cuttack,2010-03-21,A Symonds,Barabati Stadium,0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,runs,10,N,NA,BF Bowden,M Erasmus
+419121,Chennai,2010-03-21,J Theron,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,tie,NA,Y,NA,K Hariharan,DJ Harper
+419122,Mumbai,2010-03-22,SR Tendulkar,Brabourne Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7,N,NA,SS Hazare,SJA Taufel
+419123,Bangalore,2010-03-23,RV Uthappa,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,36,N,NA,RE Koertzen,RB Tiffin
+419124,Chandigarh,2010-03-24,AC Voges,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31,N,NA,BR Doctrove,SK Tarapore
+419125,Mumbai,2010-03-25,SR Tendulkar,Brabourne Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,BF Bowden,AM Saheba
+419126,Ahmedabad,2010-03-26,YK Pathan,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,8,N,NA,HDPK Dharmasena,SJA Taufel
+419127,Chandigarh,2010-03-27,MK Tiwary,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,39,N,NA,BR Doctrove,S Ravi
+419128,Bangalore,2010-03-25,KM Jadhav,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Delhi Daredevils,runs,17,N,NA,BG Jerling,RE Koertzen
+419129,Ahmedabad,2010-03-28,NV Ojha,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,17,N,NA,SS Hazare,SJA Taufel
+419130,Mumbai,2010-03-28,Harbhajan Singh,Dr DY Patil Sports Academy,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,41,N,NA,S Das,K Hariharan
+419131,Delhi,2010-03-29,DA Warner,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,runs,40,N,NA,SS Hazare,SJA Taufel
+419132,Mumbai,2010-03-30,SL Malinga,Brabourne Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,BR Doctrove,SK Tarapore
+419133,Chennai,2010-03-31,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5,N,NA,BG Jerling,RE Koertzen
+419134,Delhi,2010-03-31,KD Karthik,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,67,N,NA,HDPK Dharmasena,SJA Taufel
+419135,Kolkata,2010-04-01,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24,N,NA,K Hariharan,DJ Harper
+419136,Chandigarh,2010-04-02,KP Pietersen,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,6,N,NA,BF Bowden,M Erasmus
+419137,Chennai,2010-04-03,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,23,N,NA,RE Koertzen,RB Tiffin
+419138,Mumbai,2010-04-03,AT Rayudu,Brabourne Stadium,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,Mumbai Indians,runs,63,N,NA,BR Doctrove,S Ravi
+419139,Kolkata,2010-04-04,DPMD Jayawardene,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,8,N,NA,S Asnani,DJ Harper
+419140,Delhi,2010-04-04,PD Collingwood,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Daredevils,runs,37,N,NA,BF Bowden,M Erasmus
+419141,Nagpur,2010-04-05,SK Warne,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2,N,NA,HDPK Dharmasena,SJA Taufel
+419142,Chennai,2010-04-06,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,24,N,NA,S Asnani,DJ Harper
+419143,Jaipur,2010-04-07,MJ Lumb,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,9,N,NA,S Ravi,SK Tarapore
+419144,Kolkata,2010-04-07,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14,N,NA,BG Jerling,RE Koertzen
+419145,Bangalore,2010-04-08,TL Suman,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7,N,NA,S Asnani,DJ Harper
+419146,Chandigarh,2010-04-09,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Kings XI Punjab,wickets,6,N,NA,M Erasmus,AM Saheba
+419147,Nagpur,2010-04-10,RJ Harris,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,bat,Deccan Chargers,wickets,6,N,NA,HDPK Dharmasena,SJA Taufel
+419148,Bangalore,2010-04-10,R Vinay Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,K Hariharan,DJ Harper
+419149,Delhi,2010-04-11,PP Chawla,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,wickets,7,N,NA,BF Bowden,AM Saheba
+419150,Jaipur,2010-04-11,SR Tendulkar,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,37,N,NA,BR Doctrove,SK Tarapore
+419151,Nagpur,2010-04-12,Harmeet Singh,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,13,N,NA,RE Koertzen,RB Tiffin
+419152,Mumbai,2010-04-13,KA Pollard,Brabourne Stadium,0,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,39,N,NA,S Asnani,DJ Harper
+419153,Chennai,2010-04-13,R Ashwin,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9,N,NA,SS Hazare,SJA Taufel
+419154,Jaipur,2010-04-14,KP Pietersen,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,5,N,NA,BR Doctrove,S Ravi
+419155,Chennai,2010-04-15,G Gambhir,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,6,N,NA,HDPK Dharmasena,SS Hazare
+419156,Dharamsala,2010-04-16,RG Sharma,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,5,N,NA,M Erasmus,AM Saheba
+419157,Bangalore,2010-04-17,R McLaren,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,57,N,NA,HDPK Dharmasena,SJA Taufel
+419158,Kolkata,2010-04-17,JD Unadkat,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8,N,NA,BG Jerling,RB Tiffin
+419159,Dharamsala,2010-04-18,MS Dhoni,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,BF Bowden,AM Saheba
+419160,Delhi,2010-04-18,A Symonds,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,11,N,NA,BR Doctrove,SK Tarapore
+419161,Kolkata,2010-04-19,M Kartik,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,wickets,9,N,NA,BG Jerling,RE Koertzen
+419162,Mumbai,2010-04-21,KA Pollard,Dr DY Patil Sports Academy,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,35,N,NA,BR Doctrove,RB Tiffin
+419163,Mumbai,2010-04-22,DE Bollinger,Dr DY Patil Sports Academy,0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,38,N,NA,BR Doctrove,RB Tiffin
+419164,Mumbai,2010-04-24,A Kumble,Dr DY Patil Sports Academy,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,9,N,NA,RE Koertzen,SJA Taufel
+419165,Mumbai,2010-04-25,SK Raina,Dr DY Patil Sports Academy,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,22,N,NA,RE Koertzen,SJA Taufel
+501198,Chennai,2011-04-08,S Anirudha,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,2,N,NA,BR Doctrove,PR Reiffel
+501199,Hyderabad,2011-04-09,SK Trivedi,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,RE Koertzen,SK Tarapore
+501200,Kochi,2011-04-09,AB de Villiers,Nehru Stadium,0,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,6,N,NA,HDPK Dharmasena,K Hariharan
+501201,Delhi,2011-04-10,SL Malinga,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Mumbai Indians,wickets,8,N,NA,AM Saheba,RB Tiffin
+501202,Mumbai,2011-04-10,SB Wagh,Dr DY Patil Sports Academy,0,Pune Warriors,Kings XI Punjab,Kings XI Punjab,bat,Pune Warriors,wickets,7,N,NA,BR Doctrove,PR Reiffel
+501203,Kolkata,2011-04-11,JH Kallis,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9,N,NA,RE Koertzen,SK Tarapore
+501204,Jaipur,2011-04-12,SK Warne,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,RB Tiffin
+501205,Bangalore,2011-04-12,SR Tendulkar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9,N,NA,HDPK Dharmasena,AL Hill
+501206,Chandigarh,2011-04-13,PC Valthaty,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,Asad Rauf,SL Shastri
+501207,Mumbai,2011-04-13,MD Mishra,Dr DY Patil Sports Academy,0,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Pune Warriors,wickets,4,N,NA,S Asnani,PR Reiffel
+501208,Hyderabad,2011-04-14,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,33,N,NA,RE Koertzen,S Ravi
+501209,Jaipur,2011-04-15,G Gambhir,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9,N,NA,Aleem Dar,SS Hazare
+501210,Mumbai,2011-04-15,BB McCullum,Wankhede Stadium,0,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8,N,NA,BR Doctrove,PR Reiffel
+501211,Chennai,2011-04-16,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,21,N,NA,HDPK Dharmasena,AL Hill
+501212,Hyderabad,2011-04-16,PC Valthaty,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,RE Koertzen,S Ravi
+501213,Mumbai,2011-04-17,Yuvraj Singh,Dr DY Patil Sports Academy,0,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,3,N,NA,Asad Rauf,AM Saheba
+501214,Kolkata,2011-04-17,L Balaji,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,N,NA,Aleem Dar,RB Tiffin
+501215,Kochi,2011-04-18,BB McCullum,Nehru Stadium,0,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,7,N,D/L,K Hariharan,AL Hill
+501216,Delhi,2011-04-19,S Sohal,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,16,N,NA,PR Reiffel,RJ Tucker
+501218,Mumbai,2011-04-20,MM Patel,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Pune Warriors,bat,Mumbai Indians,wickets,7,N,NA,Asad Rauf,AM Saheba
+501219,Kolkata,2011-04-20,DPMD Jayawardene,Eden Gardens,0,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,6,N,NA,Aleem Dar,RB Tiffin
+501220,Chandigarh,2011-04-21,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,48,N,NA,S Asnani,PR Reiffel
+501221,Mumbai,2011-04-22,Harbhajan Singh,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,8,N,NA,Asad Rauf,AM Saheba
+501222,Kolkata,2011-04-22,CH Gayle,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9,N,NA,SS Hazare,RB Tiffin
+501223,Delhi,2011-04-23,DA Warner,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Delhi Daredevils,runs,29,N,NA,S Asnani,RE Koertzen
+501224,Hyderabad,2011-04-24,SL Malinga,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,37,N,NA,HDPK Dharmasena,AL Hill
+501225,Jaipur,2011-04-24,SK Warne,Sawai Mansingh Stadium,0,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,BR Doctrove,SK Tarapore
+501226,Chennai,2011-04-25,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,25,N,NA,Aleem Dar,RB Tiffin
+501227,Delhi,2011-04-26,V Kohli,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3,N,NA,S Asnani,RJ Tucker
+501228,Mumbai,2011-04-27,DE Bollinger,Dr DY Patil Sports Academy,0,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,Chennai Super Kings,wickets,8,N,NA,Asad Rauf,SL Shastri
+501229,Kochi,2011-04-27,I Sharma,Nehru Stadium,0,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerala,field,Deccan Chargers,runs,55,N,NA,HDPK Dharmasena,AL Hill
+501230,Delhi,2011-04-28,MK Tiwary,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Kolkata Knight Riders,runs,17,N,NA,PR Reiffel,RJ Tucker
+501231,Jaipur,2011-04-29,J Botha,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,Asad Rauf,SK Tarapore
+501232,Bangalore,2011-04-29,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,26,N,NA,Aleem Dar,SS Hazare
+501233,Kochi,2011-04-30,V Sehwag,Nehru Stadium,0,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,38,N,NA,HDPK Dharmasena,AL Hill
+501234,Kolkata,2011-04-30,Iqbal Abdulla,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,N,NA,AM Saheba,SL Shastri
+501235,Jaipur,2011-05-01,LRPL Taylor,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,SK Tarapore,SJA Taufel
+501236,Chennai,2011-05-01,JA Morkel,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,19,N,NA,Aleem Dar,RB Tiffin
+501237,Mumbai,2011-05-02,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,23,N,NA,HDPK Dharmasena,PR Reiffel
+501238,Delhi,2011-05-02,P Parameswaran,Feroz Shah Kotla,0,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,7,N,NA,Asad Rauf,SL Shastri
+501239,Hyderabad,2011-05-03,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,20,N,NA,S Asnani,RJ Tucker
+501240,Chennai,2011-05-04,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,8,N,NA,SS Hazare,RB Tiffin
+501241,Mumbai,2011-05-04,R Sharma,Dr DY Patil Sports Academy,0,Pune Warriors,Mumbai Indians,Pune Warriors,field,Mumbai Indians,runs,21,N,NA,HDPK Dharmasena,SJA Taufel
+501242,Kochi,2011-05-05,BJ Hodge,Nehru Stadium,0,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,17,N,NA,S Ravi,RJ Tucker
+501243,Hyderabad,2011-05-05,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,4,N,NA,Asad Rauf,AM Saheba
+501244,Bangalore,2011-05-06,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,85,N,NA,Aleem Dar,RB Tiffin
+501245,Kolkata,2011-05-07,Iqbal Abdulla,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,runs,10,N,D/L,Asad Rauf,PR Reiffel
+501246,Mumbai,2011-05-07,AT Rayudu,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,32,N,NA,K Hariharan,SJA Taufel
+501247,Bangalore,2011-05-08,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,9,N,NA,Aleem Dar,SS Hazare
+501248,Chandigarh,2011-05-08,R Sharma,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,Pune Warriors,wickets,5,N,NA,SK Tarapore,RJ Tucker
+501249,Jaipur,2011-05-09,M Vijay,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,63,N,NA,K Hariharan,SJA Taufel
+501250,Hyderabad,2011-05-10,MR Marsh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Pune Warriors,wickets,6,N,NA,Asad Rauf,AM Saheba
+501251,Chandigarh,2011-05-10,BA Bhatt,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,76,N,NA,SK Tarapore,RJ Tucker
+501252,Jaipur,2011-05-11,S Aravind,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9,N,NA,HDPK Dharmasena,K Hariharan
+501253,Chennai,2011-05-12,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,18,N,NA,AM Saheba,SL Shastri
+501254,Indore,2011-05-13,KD Karthik,Holkar Cricket Stadium,0,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,S Asnani,RJ Tucker
+501255,Bangalore,2011-05-14,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4,N,D/L,RE Koertzen,RB Tiffin
+501256,Mumbai,2011-05-14,A Mishra,Wankhede Stadium,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,10,N,NA,S Ravi,SK Tarapore
+501257,Dharamsala,2011-05-15,PP Chawla,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,29,N,NA,Asad Rauf,SL Shastri
+501258,Indore,2011-05-15,BJ Hodge,Holkar Cricket Stadium,0,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8,N,NA,PR Reiffel,RJ Tucker
+501259,Mumbai,2011-05-16,A Mishra,Dr DY Patil Sports Academy,0,Pune Warriors,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,S Ravi,SK Tarapore
+501260,Dharamsala,2011-05-17,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,runs,111,N,NA,Asad Rauf,AM Saheba
+501261,Chennai,2011-05-18,WP Saha,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,Chennai Super Kings,runs,11,N,NA,HDPK Dharmasena,RE Koertzen
+501262,Mumbai,2011-05-19,YK Pathan,Dr DY Patil Sports Academy,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,S Ravi,SJA Taufel
+501263,Mumbai,2011-05-20,SR Watson,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,10,N,NA,RE Koertzen,PR Reiffel
+501264,Dharamsala,2011-05-21,S Dhawan,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82,N,NA,Asad Rauf,AM Saheba
+501265,Delhi,2011-05-21,NA,Feroz Shah Kotla,0,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,NA,NA,NA,NA,NA,SS Hazare,RJ Tucker
+501266,Bangalore,2011-05-22,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8,N,NA,K Hariharan,RE Koertzen
+501267,Kolkata,2011-05-22,JEC Franklin,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,SK Tarapore,SJA Taufel
+501268,Mumbai,2011-05-24,SK Raina,Wankhede Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,Asad Rauf,SJA Taufel
+501269,Mumbai,2011-05-25,MM Patel,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,Asad Rauf,SJA Taufel
+501270,Chennai,2011-05-27,CH Gayle,"MA Chidambaram Stadium, Chepauk",0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,43,N,NA,Asad Rauf,SJA Taufel
+501271,Chennai,2011-05-28,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,58,N,NA,Asad Rauf,SJA Taufel
+548306,Chennai,2012-04-04,RE Levi,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,JD Cloete,SJA Taufel
+548307,Kolkata,2012-04-05,IK Pathan,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8,N,NA,S Asnani,HDPK Dharmasena
+548308,Mumbai,2012-04-06,SPD Smith,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Mumbai Indians,field,Pune Warriors,runs,28,N,NA,AK Chaudhary,SJA Taufel
+548309,Jaipur,2012-04-06,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31,N,NA,BF Bowden,SK Tarapore
+548310,Bangalore,2012-04-07,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,20,N,NA,S Asnani,S Ravi
+548311,Visakhapatnam,2012-04-07,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,field,Chennai Super Kings,runs,74,N,NA,JD Cloete,HDPK Dharmasena
+548312,Jaipur,2012-04-08,BJ Hodge,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22,N,NA,BF Bowden,VA Kulkarni
+548313,Pune,2012-04-08,MN Samuels,Subrata Roy Sahara Stadium,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Pune Warriors,runs,22,N,NA,S Das,SJA Taufel
+548314,Visakhapatnam,2012-04-09,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Mumbai Indians,wickets,5,N,NA,AK Chaudhary,JD Cloete
+548315,Bangalore,2012-04-10,L Balaji,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42,N,NA,S Ravi,RJ Tucker
+548316,Delhi,2012-04-10,M Morkel,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Delhi Daredevils,wickets,8,N,NA,Asad Rauf,SK Tarapore
+548317,Mumbai,2012-04-11,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27,N,NA,Aleem Dar,BNJ Oxenford
+548318,Chennai,2012-04-12,F du Plessis,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5,N,NA,HDPK Dharmasena,RJ Tucker
+548319,Chandigarh,2012-04-12,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,VA Kulkarni,SK Tarapore
+548320,Kolkata,2012-04-13,Shakib Al Hasan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5,N,NA,Asad Rauf,S Asnani
+548321,Delhi,2012-04-19,KP Pietersen,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Delhi Daredevils,wickets,5,N,NA,BF Bowden,SK Tarapore
+548322,Pune,2012-04-14,JD Ryder,Subrata Roy Sahara Stadium,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Pune Warriors,wickets,7,N,NA,Aleem Dar,BNJ Oxenford
+548323,Kolkata,2012-04-15,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,2,N,NA,Asad Rauf,S Asnani
+548324,Bangalore,2012-04-15,AM Rahane,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59,N,NA,JD Cloete,RJ Tucker
+548325,Mumbai,2012-04-16,S Nadeem,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,BF Bowden,SK Tarapore
+548326,Jaipur,2012-04-17,BJ Hodge,Sawai Mansingh Stadium,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,5,N,NA,Aleem Dar,BNJ Oxenford
+548327,Bangalore,2012-04-17,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,bat,Royal Challengers Bangalore,wickets,6,N,NA,S Asnani,S Das
+548328,Chandigarh,2012-04-18,G Gambhir,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,8,N,NA,JD Cloete,RJ Tucker
+548329,Hyderabad,2012-05-10,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9,N,NA,JD Cloete,SJA Taufel
+548330,Chennai,2012-04-19,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,13,N,NA,Asad Rauf,S Das
+548331,Chandigarh,2012-04-20,CH Gayle,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5,N,NA,S Ravi,RJ Tucker
+548332,Chennai,2012-04-21,F du Plessis,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7,N,NA,Aleem Dar,BNJ Oxenford
+548333,Delhi,2012-04-21,SC Ganguly,Feroz Shah Kotla,0,Delhi Daredevils,Pune Warriors,Delhi Daredevils,field,Pune Warriors,runs,20,N,NA,Asad Rauf,S Das
+548334,Mumbai,2012-04-22,SE Marsh,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,6,N,NA,S Ravi,RJ Tucker
+548335,Cuttack,2012-04-22,B Lee,Barabati Stadium,0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,N,NA,BF Bowden,SK Tarapore
+548336,Jaipur,2012-04-23,AB de Villiers,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,46,N,NA,Asad Rauf,S Asnani
+548337,Pune,2012-04-24,V Sehwag,Subrata Roy Sahara Stadium,0,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Delhi Daredevils,wickets,8,N,NA,S Ravi,RJ Tucker
+548339,Chandigarh,2012-04-25,AT Rayudu,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,4,N,NA,Aleem Dar,BNJ Oxenford
+548341,Pune,2012-04-26,CL White,Subrata Roy Sahara Stadium,0,Pune Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,18,N,NA,S Ravi,RJ Tucker
+548342,Delhi,2012-04-27,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37,N,NA,Aleem Dar,BNJ Oxenford
+548343,Chennai,2012-04-28,Mandeep Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,7,N,NA,BF Bowden,SK Tarapore
+548344,Kolkata,2012-04-28,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47,N,NA,Asad Rauf,BR Doctrove
+548345,Delhi,2012-04-29,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,1,N,NA,S Ravi,RJ Tucker
+548346,Mumbai,2012-04-29,DW Steyn,Wankhede Stadium,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,AK Chaudhary,BNJ Oxenford
+548347,Chennai,2012-04-30,G Gambhir,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5,N,NA,BF Bowden,C Shamshuddin
+548348,Cuttack,2012-05-01,KC Sangakkara,Barabati Stadium,0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Deccan Chargers,runs,13,N,NA,Aleem Dar,AK Chaudhary
+548349,Jaipur,2012-05-01,P Negi,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,wickets,6,N,NA,JD Cloete,SJA Taufel
+548350,Bangalore,2012-05-02,Azhar Mahmood,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4,N,NA,BF Bowden,C Shamshuddin
+548351,Pune,2012-05-03,SL Malinga,Subrata Roy Sahara Stadium,0,Pune Warriors,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,1,N,NA,Asad Rauf,S Asnani
+548352,Chennai,2012-05-04,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,10,N,NA,HDPK Dharmasena,BNJ Oxenford
+548353,Kolkata,2012-05-05,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,7,N,NA,BF Bowden,SK Tarapore
+548354,Chandigarh,2012-05-05,SR Watson,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43,N,NA,JD Cloete,SJA Taufel
+548355,Mumbai,2012-05-06,DR Smith,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,2,N,NA,Asad Rauf,S Asnani
+548356,Bangalore,2012-05-06,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5,N,NA,HDPK Dharmasena,BNJ Oxenford
+548357,Delhi,2012-05-07,JH Kallis,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,6,N,NA,JD Cloete,S Ravi
+548358,Pune,2012-05-08,SR Watson,Subrata Roy Sahara Stadium,0,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,wickets,7,N,NA,Asad Rauf,BR Doctrove
+548359,Hyderabad,2012-05-08,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,25,N,NA,HDPK Dharmasena,BNJ Oxenford
+548360,Mumbai,2012-05-09,CH Gayle,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9,N,NA,BF Bowden,VA Kulkarni
+548361,Jaipur,2012-05-10,BW Hilfenhaus,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,N,NA,BNJ Oxenford,C Shamshuddin
+548362,Pune,2012-05-11,CH Gayle,Subrata Roy Sahara Stadium,0,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,runs,35,N,NA,BF Bowden,SK Tarapore
+548363,Kolkata,2012-05-12,RG Sharma,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27,N,NA,S Ravi,SJA Taufel
+548364,Chennai,2012-05-12,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,field,Chennai Super Kings,wickets,9,N,NA,S Das,BR Doctrove
+548365,Jaipur,2012-05-13,A Chandila,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45,N,NA,BF Bowden,SK Tarapore
+548366,Chandigarh,2012-05-13,DJ Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,wickets,4,N,NA,HDPK Dharmasena,BNJ Oxenford
+548367,Bangalore,2012-05-14,AT Rayudu,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,S Das,BR Doctrove
+548368,Kolkata,2012-05-14,MEK Hussey,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,JD Cloete,SJA Taufel
+548369,Delhi,2012-05-15,UT Yadav,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,bat,Delhi Daredevils,wickets,5,N,NA,HDPK Dharmasena,BNJ Oxenford
+548370,Mumbai,2012-05-16,SP Narine,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32,N,NA,S Das,BR Doctrove
+548371,Dharamsala,2012-05-17,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,SK Tarapore
+548372,Delhi,2012-05-17,CH Gayle,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,21,N,NA,HDPK Dharmasena,C Shamshuddin
+548373,Hyderabad,2012-05-18,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,wickets,5,N,NA,S Ravi,SJA Taufel
+548374,Dharamsala,2012-05-19,UT Yadav,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6,N,NA,BF Bowden,VA Kulkarni
+548375,Pune,2012-05-19,Shakib Al Hasan,Subrata Roy Sahara Stadium,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34,N,NA,S Asnani,BR Doctrove
+548376,Hyderabad,2012-05-20,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,9,N,NA,S Ravi,SJA Taufel
+548377,Jaipur,2012-05-20,DR Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,10,N,NA,HDPK Dharmasena,C Shamshuddin
+548378,Pune,2012-05-22,YK Pathan,Subrata Roy Sahara Stadium,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18,N,NA,BR Doctrove,SJA Taufel
+548379,Bangalore,2012-05-23,MS Dhoni,M Chinnaswamy Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38,N,NA,BF Bowden,HDPK Dharmasena
+548380,Chennai,2012-05-25,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Chennai Super Kings,runs,86,N,NA,BR Doctrove,SJA Taufel
+548381,Chennai,2012-05-27,MS Bisla,"MA Chidambaram Stadium, Chepauk",0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5,N,NA,BF Bowden,SJA Taufel
+597998,Kolkata,2013-04-03,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,S Ravi,SJA Taufel
+597999,Bangalore,2013-04-04,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,2,N,NA,VA Kulkarni,C Shamshuddin
+598000,Hyderabad,2013-04-05,A Mishra,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,Sunrisers Hyderabad,runs,22,N,NA,S Ravi,SJA Taufel
+598001,Delhi,2013-04-06,R Dravid,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5,N,NA,S Das,C Shamshuddin
+598002,Chennai,2013-04-06,KA Pollard,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9,N,NA,M Erasmus,VA Kulkarni
+598003,Pune,2013-04-07,M Vohra,Subrata Roy Sahara Stadium,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,wickets,8,N,NA,S Asnani,SJA Taufel
+598004,Hyderabad,2013-04-07,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,tie,NA,Y,NA,AK Chaudhary,S Ravi
+598005,Jaipur,2013-04-08,SK Trivedi,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19,N,NA,Aleem Dar,S Das
+598006,Mumbai,2013-04-09,KD Karthik,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,44,N,NA,M Erasmus,VA Kulkarni
+598007,Chandigarh,2013-04-10,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,10,N,NA,Aleem Dar,C Shamshuddin
+598008,Bangalore,2013-04-11,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8,N,NA,Asad Rauf,AK Chaudhary
+598009,Pune,2013-04-11,AJ Finch,Subrata Roy Sahara Stadium,0,Pune Warriors,Rajasthan Royals,Rajasthan Royals,bat,Pune Warriors,wickets,7,N,NA,M Erasmus,K Srinath
+598010,Delhi,2013-04-12,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,3,N,NA,Aleem Dar,Subroto Das
+598011,Mumbai,2013-04-13,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,runs,41,N,NA,S Ravi,SJA Taufel
+598012,Chennai,2013-04-13,RA Jadeja,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,4,N,NA,Asad Rauf,AK Chaudhary
+598013,Kolkata,2013-04-14,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,48,N,NA,M Erasmus,VA Kulkarni
+598014,Jaipur,2013-04-14,JP Faulkner,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,C Shamshuddin
+598015,Chennai,2013-04-15,SPD Smith,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,runs,24,N,NA,Asad Rauf,AK Chaudhary
+598016,Chandigarh,2013-04-16,MS Gony,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,4,N,NA,CK Nandan,SJA Taufel
+598017,Bangalore,2013-04-16,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,tie,NA,Y,NA,M Erasmus,VA Kulkarni
+598018,Pune,2013-04-17,A Mishra,Subrata Roy Sahara Stadium,0,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,runs,11,N,NA,Asad Rauf,AK Chaudhary
+598019,Jaipur,2013-04-17,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,87,N,NA,Aleem Dar,C Shamshuddin
+598020,Delhi,2013-04-18,MEK Hussey,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,86,N,NA,M Erasmus,VA Kulkarni
+598021,Hyderabad,2013-04-19,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,5,N,NA,HDPK Dharmasena,CK Nandan
+598022,Kolkata,2013-04-20,RA Jadeja,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,4,N,NA,Asad Rauf,AK Chaudhary
+598023,Bangalore,2013-04-20,R Vinay Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,Aleem Dar,C Shamshuddin
+598024,Delhi,2013-04-21,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,9,N,NA,HDPK Dharmasena,S Ravi
+598025,Chandigarh,2013-04-21,DA Miller,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,M Erasmus,K Srinath
+598026,Chennai,2013-04-22,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5,N,NA,S Asnani,AK Chaudhary
+598027,Bangalore,2013-04-23,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,130,N,NA,Aleem Dar,C Shamshuddin
+598028,Dharamsala,2013-05-16,DA Miller,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,7,N,NA,HDPK Dharmasena,S Ravi
+598029,Kolkata,2013-04-24,DR Smith,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,5,N,NA,HDPK Dharmasena,S Ravi
+598030,Chennai,2013-04-25,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5,N,NA,Aleem Dar,S Das
+598031,Kolkata,2013-04-26,JH Kallis,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,6,N,NA,CK Nandan,S Ravi
+598032,Jaipur,2013-04-27,JP Faulkner,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,8,N,NA,VA Kulkarni,K Srinath
+598033,Mumbai,2013-04-27,DR Smith,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,runs,58,N,NA,Asad Rauf,S Asnani
+598034,Chennai,2013-04-28,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,14,N,NA,Aleem Dar,SJA Taufel
+598035,Raipur,2013-04-28,DA Warner,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Pune Warriors,Pune Warriors,field,Delhi Daredevils,runs,15,N,NA,CK Nandan,S Ravi
+598036,Jaipur,2013-04-29,SV Samson,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,M Erasmus,K Srinath
+598037,Mumbai,2013-04-29,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Mumbai Indians,runs,4,N,NA,Asad Rauf,AK Chaudhary
+598038,Pune,2013-04-30,MS Dhoni,Subrata Roy Sahara Stadium,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,37,N,NA,S Das,SJA Taufel
+598039,Hyderabad,2013-05-01,I Sharma,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7,N,NA,Asad Rauf,S Asnani
+598040,Raipur,2013-05-01,DA Warner,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,7,N,NA,HDPK Dharmasena,CK Nandan
+598041,Chennai,2013-05-02,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,15,N,NA,M Erasmus,VA Kulkarni
+598042,Pune,2013-05-02,AB de Villiers,Subrata Roy Sahara Stadium,0,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,17,N,NA,Aleem Dar,C Shamshuddin
+598043,Kolkata,2013-05-03,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8,N,NA,HDPK Dharmasena,CK Nandan
+598044,Hyderabad,2013-05-04,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,6,N,NA,Asad Rauf,S Asnani
+598045,Bangalore,2013-05-14,AC Gilchrist,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,S Ravi
+598046,Mumbai,2013-05-05,MG Johnson,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,60,N,NA,HDPK Dharmasena,CK Nandan
+598047,Jaipur,2013-05-05,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Pune Warriors,bat,Rajasthan Royals,wickets,5,N,NA,C Shamshuddin,RJ Tucker
+598048,Bangalore,2013-04-09,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,7,N,NA,S Ravi,SJA Taufel
+598049,Jaipur,2013-05-07,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,9,N,NA,Aleem Dar,RJ Tucker
+598050,Mumbai,2013-05-07,SR Tendulkar,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,runs,65,N,NA,HDPK Dharmasena,S Ravi
+598051,Hyderabad,2013-05-08,SK Raina,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,77,N,NA,S Das,NJ Llong
+598052,Chandigarh,2013-05-09,KK Cooper,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,HDPK Dharmasena,S Ravi
+598053,Pune,2013-05-09,G Gambhir,Subrata Roy Sahara Stadium,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,46,N,NA,Asad Rauf,S Asnani
+598054,Delhi,2013-05-10,JD Unadkat,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,4,N,NA,NJ Llong,K Srinath
+598055,Pune,2013-05-11,MG Johnson,Subrata Roy Sahara Stadium,0,Pune Warriors,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,wickets,5,N,NA,Asad Rauf,AK Chaudhary
+598056,Chandigarh,2013-05-11,PA Patel,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,30,N,NA,S Das,RJ Tucker
+598057,Ranchi,2013-05-12,JH Kallis,JSCA International Stadium Complex,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,N,NA,NJ Llong,K Srinath
+598058,Jaipur,2013-05-12,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,HDPK Dharmasena,CK Nandan
+598059,Delhi,2013-04-23,Harmeet Singh,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,5,N,NA,VA Kulkarni,K Srinath
+598060,Mumbai,2013-05-13,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7,N,NA,AK Chaudhary,SJA Taufel
+598061,Ranchi,2013-05-15,MK Pandey,JSCA International Stadium Complex,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,field,Pune Warriors,runs,7,N,NA,NJ Llong,K Srinath
+598062,Chennai,2013-05-14,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,33,N,NA,C Shamshuddin,RJ Tucker
+598063,Mumbai,2013-05-15,AP Tare,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,14,N,NA,Asad Rauf,S Asnani
+598064,Chandigarh,2013-05-06,DA Miller,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,NJ Llong
+598065,Hyderabad,2013-05-17,A Mishra,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,23,N,NA,Asad Rauf,AK Chaudhary
+598066,Dharamsala,2013-05-18,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,50,N,NA,HDPK Dharmasena,CK Nandan
+598067,Pune,2013-05-19,LJ Wright,Subrata Roy Sahara Stadium,0,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Pune Warriors,runs,38,N,NA,NJ Llong,SJA Taufel
+598068,Bangalore,2013-05-18,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,24,N,NA,C Shamshuddin,RJ Tucker
+598069,Hyderabad,2013-05-19,PA Patel,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,5,N,NA,Asad Rauf,S Asnani
+598070,Delhi,2013-05-21,MEK Hussey,Feroz Shah Kotla,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,48,N,NA,NJ Llong,RJ Tucker
+598071,Delhi,2013-05-22,BJ Hodge,Feroz Shah Kotla,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,4,N,NA,S Ravi,RJ Tucker
+598072,Kolkata,2013-05-24,Harbhajan Singh,Eden Gardens,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,4,N,NA,C Shamshuddin,SJA Taufel
+598073,Kolkata,2013-05-26,KA Pollard,Eden Gardens,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23,N,NA,HDPK Dharmasena,SJA Taufel
+729279,Abu Dhabi,2014-04-16,JH Kallis,Sheikh Zayed Stadium,1,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,41,N,NA,M Erasmus,RK Illingworth
+729281,NA,2014-04-17,YS Chahal,Sharjah Cricket Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8,N,NA,Aleem Dar,S Ravi
+729283,Abu Dhabi,2014-04-18,GJ Maxwell,Sheikh Zayed Stadium,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Kings XI Punjab,wickets,6,N,NA,RK Illingworth,C Shamshuddin
+729285,Abu Dhabi,2014-04-18,AM Rahane,Sheikh Zayed Stadium,1,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,BF Bowden,RK Illingworth
+729287,NA,2014-04-19,PA Patel,Dubai International Cricket Stadium,1,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,Aleem Dar,AK Chaudhary
+729289,NA,2014-04-19,JP Duminy,Dubai International Cricket Stadium,1,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,4,N,NA,Aleem Dar,VA Kulkarni
+729291,NA,2014-04-20,GJ Maxwell,Sharjah Cricket Stadium,1,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,BF Bowden,M Erasmus
+729293,Abu Dhabi,2014-04-21,SK Raina,Sheikh Zayed Stadium,1,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,93,N,NA,RK Illingworth,C Shamshuddin
+729295,NA,2014-04-22,GJ Maxwell,Sharjah Cricket Stadium,1,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,72,N,NA,M Erasmus,S Ravi
+729297,NA,2014-04-23,RA Jadeja,Dubai International Cricket Stadium,1,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,7,N,NA,HDPK Dharmasena,RK Illingworth
+729299,NA,2014-04-24,CA Lynn,Sharjah Cricket Stadium,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,2,N,NA,Aleem Dar,VA Kulkarni
+729301,NA,2014-04-25,AJ Finch,Dubai International Cricket Stadium,1,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4,N,NA,M Erasmus,S Ravi
+729303,NA,2014-04-25,MM Sharma,Dubai International Cricket Stadium,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7,N,NA,BF Bowden,M Erasmus
+729305,Abu Dhabi,2014-04-26,PV Tambe,Sheikh Zayed Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,HDPK Dharmasena,C Shamshuddin
+729307,Abu Dhabi,2014-04-26,Sandeep Sharma,Sheikh Zayed Stadium,1,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,23,N,NA,HDPK Dharmasena,RK Illingworth
+729309,NA,2014-04-27,M Vijay,Sharjah Cricket Stadium,1,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,6,N,NA,Aleem Dar,VA Kulkarni
+729311,NA,2014-04-27,DR Smith,Sharjah Cricket Stadium,1,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5,N,NA,AK Chaudhary,VA Kulkarni
+729313,NA,2014-04-28,Sandeep Sharma,Dubai International Cricket Stadium,1,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,5,N,NA,BF Bowden,S Ravi
+729315,Abu Dhabi,2014-04-29,JP Faulkner,Sheikh Zayed Stadium,1,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,NA,Y,NA,Aleem Dar,AK Chaudhary
+729317,NA,2014-04-30,B Kumar,Dubai International Cricket Stadium,1,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15,N,NA,HDPK Dharmasena,M Erasmus
+733971,Ranchi,2014-05-02,RA Jadeja,JSCA International Stadium Complex,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,34,N,NA,AK Chaudhary,NJ Llong
+733973,Mumbai,2014-05-03,CJ Anderson,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+733975,Delhi,2014-05-03,KK Nair,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,SS Hazare,S Ravi
+733977,Bangalore,2014-05-04,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4,N,NA,HDPK Dharmasena,VA Kulkarni
+733979,Ahmedabad,2014-05-05,PV Tambe,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,10,N,NA,NJ Llong,CK Nandan
+733981,Delhi,2014-05-05,DR Smith,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8,N,NA,RM Deshpande,BNJ Oxenford
+733983,Mumbai,2014-05-06,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,19,N,NA,S Ravi,K Srinath
+733985,Delhi,2014-05-07,G Gambhir,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,8,N,NA,BNJ Oxenford,C Shamshuddin
+733987,Cuttack,2014-05-07,GJ Maxwell,Barabati Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,44,N,NA,HDPK Dharmasena,PG Pathak
+733989,Ahmedabad,2014-05-08,B Kumar,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32,N,NA,AK Chaudhary,NJ Llong
+733991,Bangalore,2014-05-09,Sandeep Sharma,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,32,N,NA,S Ravi,K Srinath
+733993,Delhi,2014-05-10,DW Steyn,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,N,D/L,RM Deshpande,BNJ Oxenford
+733995,Mumbai,2014-05-10,DR Smith,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,N,NA,HDPK Dharmasena,VA Kulkarni
+733997,Cuttack,2014-05-11,G Gambhir,Barabati Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9,N,NA,NJ Llong,CK Nandan
+733999,Bangalore,2014-05-11,JP Faulkner,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,wickets,5,N,NA,S Ravi,RJ Tucker
+734001,Hyderabad,2014-05-12,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734003,Ranchi,2014-05-13,RA Jadeja,JSCA International Stadium Complex,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+734005,Bangalore,2014-05-13,Yuvraj Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,16,N,NA,K Srinath,RJ Tucker
+734007,Hyderabad,2014-05-14,WP Saha,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,PG Pathak
+734009,Cuttack,2014-05-14,RV Uthappa,Barabati Stadium,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,AK Chaudhary,NJ Llong
+734011,Ahmedabad,2014-05-15,AM Rahane,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,62,N,NA,S Ravi,RJ Tucker
+734013,Ranchi,2014-05-18,AB de Villiers,JSCA International Stadium Complex,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+734015,Hyderabad,2014-05-18,UT Yadav,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7,N,NA,NJ Llong,CK Nandan
+734017,Ahmedabad,2014-05-19,MEK Hussey,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25,N,NA,S Ravi,RJ Tucker
+734019,Delhi,2014-05-19,AR Patel,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4,N,NA,HDPK Dharmasena,PG Pathak
+734021,Hyderabad,2014-05-20,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,wickets,7,N,NA,AK Chaudhary,NJ Llong
+734023,Kolkata,2014-05-20,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,N,NA,RM Deshpande,C Shamshuddin
+734025,Chandigarh,2014-05-21,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734027,Kolkata,2014-05-22,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,30,N,NA,AK Chaudhary,CK Nandan
+734029,Ranchi,2014-05-22,DA Warner,JSCA International Stadium Complex,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6,N,NA,BNJ Oxenford,C Shamshuddin
+734031,Mumbai,2014-05-23,MEK Hussey,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,15,N,NA,S Ravi,RJ Tucker
+734033,Chandigarh,2014-05-23,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,16,N,NA,HDPK Dharmasena,PG Pathak
+734035,Bangalore,2014-05-24,MS Dhoni,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8,N,NA,AK Chaudhary,NJ Llong
+734037,Kolkata,2014-05-24,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,N,NA,RM Deshpande,BNJ Oxenford
+734039,Chandigarh,2014-05-25,M Vohra,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734041,Mumbai,2014-05-25,CJ Anderson,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,K Srinath,RJ Tucker
+734043,Kolkata,2014-05-27,UT Yadav,Eden Gardens,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,28,N,NA,NJ Llong,S Ravi
+734045,Mumbai,2014-05-28,SK Raina,Brabourne Stadium,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,7,N,NA,VA Kulkarni,BNJ Oxenford
+734047,Mumbai,2014-05-30,V Sehwag,Wankhede Stadium,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,runs,24,N,NA,HDPK Dharmasena,RJ Tucker
+734049,Bangalore,2014-06-01,MK Pandey,M Chinnaswamy Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,N,NA,HDPK Dharmasena,BNJ Oxenford
+829705,Kolkata,2015-04-08,M Morkel,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,S Ravi,C Shamshuddin
+829707,Chennai,2015-04-09,A Nehra,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,1,N,NA,RK Illingworth,VA Kulkarni
+829709,Pune,2015-04-10,JP Faulkner,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,26,N,NA,SD Fry,CB Gaffaney
+829711,Chennai,2015-04-11,BB McCullum,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,45,N,NA,RK Illingworth,VA Kulkarni
+829713,Kolkata,2015-04-11,CH Gayle,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3,N,NA,S Ravi,C Shamshuddin
+829715,Delhi,2015-04-12,DJ Hooda,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,SD Fry,CB Gaffaney
+829717,Mumbai,2015-04-12,GJ Bailey,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,18,N,NA,AK Chaudhary,K Srinivasan
+829719,Bangalore,2015-04-13,DA Warner,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,N,NA,RM Deshpande,RK Illingworth
+829721,Ahmedabad,2015-04-14,SPD Smith,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,7,N,NA,AK Chaudhary,SD Fry
+829723,Kolkata,2015-04-30,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,AK Chaudhary,M Erasmus
+829725,Pune,2015-04-15,MA Agarwal,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,Delhi Daredevils,wickets,5,N,NA,CB Gaffaney,K Srinath
+829727,Visakhapatnam,2015-04-16,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,PG Pathak,S Ravi
+829729,Mumbai,2015-04-17,A Nehra,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,6,N,NA,AK Chaudhary,M Erasmus
+829731,Visakhapatnam,2015-04-18,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,4,N,NA,PG Pathak,S Ravi
+829733,Pune,2015-04-18,AD Russell,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,N,NA,SD Fry,CK Nandan
+829735,Ahmedabad,2015-04-19,AM Rahane,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8,N,NA,AK Chaudhary,M Erasmus
+829737,Bangalore,2015-04-19,Harbhajan Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,18,N,NA,RK Illingworth,VA Kulkarni
+829739,Delhi,2015-04-20,UT Yadav,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,SD Fry,CB Gaffaney
+829741,Ahmedabad,2015-04-21,SE Marsh,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,NA,Y,NA,M Erasmus,S Ravi
+829743,Visakhapatnam,2015-04-22,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,16,N,D/L,RK Illingworth,VA Kulkarni
+829745,Bangalore,2015-04-22,SK Raina,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,runs,27,N,NA,JD Cloete,C Shamshuddin
+829747,Delhi,2015-04-23,SS Iyer,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37,N,NA,SD Fry,CK Nandan
+829749,Ahmedabad,2015-04-24,MA Starc,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9,N,NA,M Erasmus,S Ravi
+829751,Mumbai,2015-04-25,SL Malinga,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,20,N,NA,HDPK Dharmasena,CB Gaffaney
+829753,Chennai,2015-04-25,BB McCullum,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,97,N,NA,JD Cloete,C Shamshuddin
+829757,Delhi,2015-04-26,VR Aaron,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10,N,NA,M Erasmus,S Ravi
+829759,Chandigarh,2015-04-27,TA Boult,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,20,N,NA,HDPK Dharmasena,CB Gaffaney
+829761,Kolkata,2015-05-07,PP Chawla,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,13,N,NA,AK Chaudhary,M Erasmus
+829763,Bangalore,2015-04-29,NA,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA,NA,NA,JD Cloete,PG Pathak
+829765,Chennai,2015-04-28,DJ Bravo,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,2,N,NA,RM Deshpande,VA Kulkarni
+829767,Delhi,2015-05-01,NM Coulter-Nile,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,9,N,NA,RK Illingworth,S Ravi
+829769,Mumbai,2015-05-01,AT Rayudu,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,8,N,NA,HDPK Dharmasena,CK Nandan
+829771,Bangalore,2015-05-02,Mandeep Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,JD Cloete,PG Pathak
+829773,Hyderabad,2015-05-02,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,22,N,NA,AK Chaudhary,K Srinivasan
+829775,Chandigarh,2015-05-03,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23,N,NA,RK Illingworth,VA Kulkarni
+829777,Mumbai,2015-05-03,AM Rahane,Brabourne Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,14,N,NA,HDPK Dharmasena,CB Gaffaney
+829779,Chennai,2015-05-04,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,24,N,NA,C Shamshuddin,K Srinath
+829781,Kolkata,2015-05-04,UT Yadav,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,35,N,NA,AK Chaudhary,M Erasmus
+829783,Mumbai,2015-05-05,Harbhajan Singh,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,bat,Mumbai Indians,wickets,5,N,NA,HDPK Dharmasena,CB Gaffaney
+829785,Bangalore,2015-05-06,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,138,N,NA,RK Illingworth,VA Kulkarni
+829787,Mumbai,2015-05-07,EJG Morgan,Brabourne Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7,N,NA,JD Cloete,C Shamshuddin
+829789,Chennai,2015-05-08,HH Pandya,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6,N,NA,CB Gaffaney,CK Nandan
+829791,Kolkata,2015-05-09,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,1,N,NA,AK Chaudhary,HDPK Dharmasena
+829793,Raipur,2015-05-09,MC Henriques,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6,N,NA,VA Kulkarni,S Ravi
+829795,Mumbai,2015-05-10,AB de Villiers,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,39,N,NA,JD Cloete,C Shamshuddin
+829797,Chennai,2015-05-10,RA Jadeja,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,12,N,NA,M Erasmus,CK Nandan
+829799,Hyderabad,2015-05-11,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,5,N,NA,AK Chaudhary,HDPK Dharmasena
+829801,Raipur,2015-05-12,Z Khan,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Delhi Daredevils,wickets,6,N,NA,RK Illingworth,VA Kulkarni
+829803,Chandigarh,2015-05-13,AR Patel,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,22,N,NA,JD Cloete,C Shamshuddin
+829805,Mumbai,2015-05-14,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,5,N,NA,RK Illingworth,VA Kulkarni
+829807,Hyderabad,2015-05-15,V Kohli,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,6,N,D/L,AK Chaudhary,HDPK Dharmasena
+829809,Chandigarh,2015-05-16,P Negi,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,7,N,NA,CK Nandan,C Shamshuddin
+829811,Mumbai,2015-05-16,SR Watson,Brabourne Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9,N,NA,RM Deshpande,RK Illingworth
+829813,Bangalore,2015-05-17,NA,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,NA,NA,NA,NA,NA,HDPK Dharmasena,K Srinivasan
+829815,Hyderabad,2015-05-17,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,9,N,NA,CB Gaffaney,K Srinath
+829817,Mumbai,2015-05-19,KA Pollard,Wankhede Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25,N,NA,HDPK Dharmasena,RK Illingworth
+829819,Pune,2015-05-20,AB de Villiers,Maharashtra Cricket Association Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,71,N,NA,AK Chaudhary,C Shamshuddin
+829821,Ranchi,2015-05-22,A Nehra,JSCA International Stadium Complex,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,3,N,NA,AK Chaudhary,CB Gaffaney
+829823,Kolkata,2015-05-24,RG Sharma,Eden Gardens,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,41,N,NA,HDPK Dharmasena,RK Illingworth
+980901,Mumbai,2016-04-09,AM Rahane,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,Rising Pune Supergiants,wickets,9,N,NA,HDPK Dharmasena,CK Nandan
+980903,Kolkata,2016-04-10,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9,N,NA,S Ravi,C Shamshuddin
+980905,Chandigarh,2016-04-11,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5,N,NA,AK Chaudhary,VA Kulkarni
+980907,Bangalore,2016-04-12,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,45,N,NA,HDPK Dharmasena,VK Sharma
+980909,Kolkata,2016-04-13,RG Sharma,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,Nitin Menon,S Ravi
+980911,Rajkot,2016-04-14,AJ Finch,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,bat,Gujarat Lions,wickets,7,N,NA,VA Kulkarni,CK Nandan
+980913,Delhi,2016-04-15,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,8,N,NA,S Ravi,C Shamshuddin
+980915,Hyderabad,2016-04-16,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8,N,NA,AK Chaudhary,CK Nandan
+980917,Mumbai,2016-04-16,AJ Finch,Wankhede Stadium,0,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3,N,NA,HDPK Dharmasena,VK Sharma
+980919,Chandigarh,2016-04-17,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kings XI Punjab,wickets,6,N,NA,S Ravi,C Shamshuddin
+980921,Bangalore,2016-04-17,Q de Kock,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,VA Kulkarni,A Nand Kishore
+980923,Hyderabad,2016-04-18,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7,N,NA,HDPK Dharmasena,VK Sharma
+980925,Chandigarh,2016-04-19,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,S Ravi,C Shamshuddin
+980927,Mumbai,2016-04-20,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,AK Chaudhary,CK Nandan
+980929,Rajkot,2016-04-21,B Kumar,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10,N,NA,K Bharatan,HDPK Dharmasena
+980931,Pune,2016-04-22,AB de Villiers,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,field,Royal Challengers Bangalore,runs,13,N,NA,CB Gaffaney,VK Sharma
+980933,Delhi,2016-04-23,SV Samson,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,10,N,NA,S Ravi,C Shamshuddin
+980935,Hyderabad,2016-04-23,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,N,NA,AK Chaudhary,CK Nandan
+980937,Rajkot,2016-04-24,V Kohli,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Gujarat Lions,wickets,6,N,NA,K Bharatan,BNJ Oxenford
+980939,Pune,2016-04-24,SA Yadav,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2,N,NA,CB Gaffaney,A Nand Kishore
+980941,Chandigarh,2016-04-25,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Mumbai Indians,runs,25,N,NA,Nitin Menon,RJ Tucker
+980943,Hyderabad,2016-04-26,AB Dinda,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,34,N,D/L,AY Dandekar,CK Nandan
+980945,Delhi,2016-04-27,CH Morris,Feroz Shah Kotla,0,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Gujarat Lions,runs,1,N,NA,M Erasmus,S Ravi
+980947,Mumbai,2016-04-28,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,Nitin Menon,RJ Tucker
+980949,Pune,2016-04-29,DR Smith,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3,N,NA,CB Gaffaney,BNJ Oxenford
+980951,Delhi,2016-04-30,CR Brathwaite,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,27,N,NA,KN Ananthapadmanabhan,M Erasmus
+980953,Hyderabad,2016-04-30,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,15,N,NA,AK Chaudhary,HDPK Dharmasena
+980955,Rajkot,2016-05-01,AR Patel,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,23,N,NA,BNJ Oxenford,VK Sharma
+980957,Pune,2016-05-01,RG Sharma,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,AY Dandekar,RJ Tucker
+980959,Bangalore,2016-05-02,AD Russell,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,N,NA,M Erasmus,S Ravi
+980961,Rajkot,2016-05-03,RR Pant,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8,N,NA,CB Gaffaney,BNJ Oxenford
+980963,Kolkata,2016-05-04,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,7,N,NA,AK Chaudhary,HDPK Dharmasena
+980965,Delhi,2016-05-05,AM Rahane,Feroz Shah Kotla,0,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,wickets,7,N,NA,C Shamshuddin,RJ Tucker
+980967,Hyderabad,2016-05-06,B Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,N,NA,M Erasmus,S Ravi
+980969,Bangalore,2016-05-07,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,CB Gaffaney,BNJ Oxenford
+980971,Chandigarh,2016-05-07,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,9,N,NA,HDPK Dharmasena,CK Nandan
+980973,Visakhapatnam,2016-05-08,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,85,N,NA,S Ravi,C Shamshuddin
+980975,Kolkata,2016-05-08,P Kumar,Eden Gardens,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5,N,NA,M Erasmus,RJ Tucker
+980977,Chandigarh,2016-05-09,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Royal Challengers Bangalore,runs,1,N,NA,AK Chaudhary,HDPK Dharmasena
+980979,Visakhapatnam,2016-05-10,A Zampa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4,N,NA,CB Gaffaney,VK Sharma
+980981,Bangalore,2016-05-11,KH Pandya,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,AY Dandekar,C Shamshuddin
+980983,Hyderabad,2016-05-12,CH Morris,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,K Bharatan,M Erasmus
+980985,Visakhapatnam,2016-05-13,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,CK Nandan
+980987,Bangalore,2016-05-14,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,runs,144,N,NA,AY Dandekar,VK Sharma
+980989,Kolkata,2016-05-14,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kolkata Knight Riders,wickets,8,N,D/L,A Nand Kishore,BNJ Oxenford
+980991,Chandigarh,2016-05-15,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,7,N,NA,KN Ananthapadmanabhan,M Erasmus
+980993,Visakhapatnam,2016-05-15,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,80,N,NA,Nitin Menon,CK Nandan
+980995,Kolkata,2016-05-16,V Kohli,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9,N,NA,CB Gaffaney,A Nand Kishore
+980997,Visakhapatnam,2016-05-17,AB Dinda,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,19,N,D/L,Nitin Menon,C Shamshuddin
+980999,Bangalore,2016-05-18,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,82,N,D/L,KN Ananthapadmanabhan,M Erasmus
+981001,Kanpur,2016-05-19,DR Smith,Green Park,0,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,AK Chaudhary,CK Nandan
+981003,Raipur,2016-05-20,KK Nair,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6,N,NA,A Nand Kishore,BNJ Oxenford
+981005,Visakhapatnam,2016-05-21,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,bat,Rising Pune Supergiants,wickets,4,N,NA,HDPK Dharmasena,Nitin Menon
+981007,Kanpur,2016-05-21,SK Raina,Green Park,0,Gujarat Lions,Mumbai Indians,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,AK Chaudhary,CK Nandan
+981009,Kolkata,2016-05-22,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,22,N,NA,KN Ananthapadmanabhan,M Erasmus
+981011,Raipur,2016-05-22,V Kohli,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6,N,NA,A Nand Kishore,BNJ Oxenford
+981013,Bangalore,2016-05-24,AB de Villiers,M Chinnaswamy Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4,N,NA,AK Chaudhary,HDPK Dharmasena
+981015,Delhi,2016-05-25,MC Henriques,Feroz Shah Kotla,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,22,N,NA,M Erasmus,C Shamshuddin
+981017,Delhi,2016-05-27,DA Warner,Feroz Shah Kotla,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4,N,NA,M Erasmus,CK Nandan
+981019,Bangalore,2016-05-29,BCJ Cutting,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8,N,NA,HDPK Dharmasena,BNJ Oxenford
+1082591,Hyderabad,2017-04-05,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35,N,NA,AY Dandekar,NJ Llong
+1082592,Pune,2017-04-06,SPD Smith,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,7,N,NA,A Nand Kishore,S Ravi
+1082593,Rajkot,2017-04-07,CA Lynn,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,10,N,NA,Nitin Menon,CK Nandan
+1082594,Indore,2017-04-08,GJ Maxwell,Holkar Cricket Stadium,0,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,AK Chaudhary,C Shamshuddin
+1082595,Bengaluru,2017-04-08,KM Jadhav,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15,N,NA,S Ravi,VK Sharma
+1082596,Hyderabad,2017-04-09,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9,N,NA,A Deshmukh,NJ Llong
+1082597,Mumbai,2017-04-09,N Rana,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082598,Indore,2017-04-10,AR Patel,Holkar Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8,N,NA,AK Chaudhary,C Shamshuddin
+1082599,Pune,2017-04-11,SV Samson,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,field,Delhi Daredevils,runs,97,N,NA,AY Dandekar,S Ravi
+1082600,Mumbai,2017-04-12,JJ Bumrah,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082601,Kolkata,2017-04-13,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,N,NA,A Deshmukh,NJ Llong
+1082602,Bangalore,2017-04-14,KA Pollard,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1082603,Rajkot,2017-04-14,AJ Tye,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,field,Gujarat Lions,wickets,7,N,NA,A Nand Kishore,S Ravi
+1082604,Kolkata,2017-04-15,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,17,N,NA,AY Dandekar,NJ Llong
+1082605,Delhi,2017-04-15,CJ Anderson,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,runs,51,N,NA,YC Barde,Nitin Menon
+1082606,Mumbai,2017-04-16,N Rana,Wankhede Stadium,0,Mumbai Indians,Gujarat Lions,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,A Nand Kishore,S Ravi
+1082607,Bangalore,2017-04-16,BA Stokes,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,27,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1082608,Delhi,2017-04-17,NM Coulter-Nile,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082609,Hyderabad,2017-04-17,B Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,5,N,NA,AY Dandekar,A Deshmukh
+1082610,Rajkot,2017-04-18,CH Gayle,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,runs,21,N,NA,S Ravi,VK Sharma
+1082611,Hyderabad,2017-04-19,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15,N,NA,CB Gaffaney,NJ Llong
+1082612,Indore,2017-04-20,JC Buttler,Holkar Cricket Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,M Erasmus,C Shamshuddin
+1082613,Kolkata,2017-04-21,SK Raina,Eden Gardens,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,4,N,NA,CB Gaffaney,Nitin Menon
+1082614,Mumbai,2017-04-22,MJ McClenaghan,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,14,N,NA,A Nand Kishore,S Ravi
+1082615,Pune,2017-04-22,MS Dhoni,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,6,N,NA,AY Dandekar,A Deshmukh
+1082616,Rajkot,2017-04-23,HM Amla,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,26,N,NA,AK Chaudhary,M Erasmus
+1082617,Kolkata,2017-04-23,NM Coulter-Nile,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,82,N,NA,CB Gaffaney,CK Nandan
+1082618,Mumbai,2017-04-24,BA Stokes,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,3,N,NA,A Nand Kishore,S Ravi
+1082620,Pune,2017-04-26,RV Uthappa,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,AY Dandekar,NJ Llong
+1082621,Bangalore,2017-04-27,AJ Tye,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,7,N,NA,AK Chaudhary,C Shamshuddin
+1082622,Kolkata,2017-04-28,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,NJ Llong,S Ravi
+1082623,Chandigarh,2017-04-28,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,26,N,NA,Nitin Menon,CK Nandan
+1082624,Pune,2017-04-29,LH Ferguson,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,61,N,NA,KN Ananthapadmanabhan,M Erasmus
+1082625,Rajkot,2017-04-29,KH Pandya,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,tie,NA,Y,NA,AK Chaudhary,CB Gaffaney
+1082626,Chandigarh,2017-04-30,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,10,N,NA,YC Barde,CK Nandan
+1082627,Hyderabad,2017-04-30,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48,N,NA,AY Dandekar,S Ravi
+1082628,Mumbai,2017-05-01,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,wickets,5,N,NA,AK Chaudhary,CB Gaffaney
+1082629,Pune,2017-05-01,BA Stokes,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,5,N,NA,M Erasmus,C Shamshuddin
+1082630,Delhi,2017-05-02,Mohammed Shami,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6,N,NA,YC Barde,Nitin Menon
+1082631,Kolkata,2017-05-03,RA Tripathi,Eden Gardens,0,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,4,N,NA,KN Ananthapadmanabhan,A Nand Kishore
+1082632,Delhi,2017-05-04,RR Pant,Feroz Shah Kotla,0,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,M Erasmus,Nitin Menon
+1082633,Bangalore,2017-05-05,Sandeep Sharma,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,19,N,NA,CB Gaffaney,C Shamshuddin
+1082634,Hyderabad,2017-05-06,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,field,Rising Pune Supergiant,runs,12,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1082635,Delhi,2017-05-06,LMP Simmons,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,146,N,NA,Nitin Menon,CK Nandan
+1082636,Bangalore,2017-05-07,SP Narine,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,AY Dandekar,C Shamshuddin
+1082637,Chandigarh,2017-05-07,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,A Nand Kishore,VK Sharma
+1082638,Hyderabad,2017-05-08,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7,N,NA,KN Ananthapadmanabhan,M Erasmus
+1082639,Chandigarh,2017-05-09,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,14,N,NA,A Nand Kishore,S Ravi
+1082640,Kanpur,2017-05-10,SS Iyer,Green Park,0,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,2,N,NA,YC Barde,AK Chaudhary
+1082641,Mumbai,2017-05-11,WP Saha,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,7,N,NA,A Deshmukh,A Nand Kishore
+1082642,Delhi,2017-05-12,KK Nair,Feroz Shah Kotla,0,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,runs,7,N,NA,KN Ananthapadmanabhan,CK Nandan
+1082643,Kanpur,2017-05-13,Mohammed Siraj,Green Park,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,N,NA,AK Chaudhary,Nitin Menon
+1082644,Kolkata,2017-05-13,AT Rayudu,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,9,N,NA,A Nand Kishore,S Ravi
+1082645,Pune,2017-05-14,JD Unadkat,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,9,N,NA,AY Dandekar,A Deshmukh
+1082646,Delhi,2017-05-14,HV Patel,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,10,N,NA,CK Nandan,C Shamshuddin
+1082647,Mumbai,2017-05-16,Washington Sundar,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,20,N,NA,S Ravi,C Shamshuddin
+1082648,Bangalore,2017-05-17,NM Coulter-Nile,M Chinnaswamy Stadium,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,D/L,AK Chaudhary,Nitin Menon
+1082649,Bangalore,2017-05-19,KV Sharma,M Chinnaswamy Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,NJ Llong,Nitin Menon
+1082650,Hyderabad,2017-05-21,KH Pandya,"Rajiv Gandhi International Stadium, Uppal",0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,runs,1,N,NA,NJ Llong,S Ravi
+1136561,Mumbai,2018-04-07,DJ Bravo,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1,N,NA,CB Gaffaney,A Nand Kishore
+1136562,Chandigarh,2018-04-08,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1136563,Kolkata,2018-04-08,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,N,NA,C Shamshuddin,A Deshmukh
+1136564,Hyderabad,2018-04-09,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9,N,NA,VA Kulkarni,NJ Llong
+1136565,Chennai,2018-04-10,SW Billings,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,CB Gaffaney,AK Chaudhary
+1136566,Jaipur,2018-04-11,SV Samson,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,10,N,D/L,KN Ananthapadmanabhan,Nitin Menon
+1136567,Hyderabad,2018-04-12,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1,N,NA,NJ Llong,CK Nandan
+1136568,Bengaluru,2018-04-13,UT Yadav,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4,N,NA,A Deshmukh,S Ravi
+1136569,Mumbai,2018-04-14,JJ Roy,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7,N,NA,KN Ananthapadmanabhan,Nitin Menon
+1136570,Kolkata,2018-04-14,B Stanlake,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,N,NA,AK Chaudhary,A Nand Kishore
+1136571,Bengaluru,2018-04-15,SV Samson,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,runs,19,N,NA,C Shamshuddin,S Ravi
+1136572,Chandigarh,2018-04-15,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,4,N,NA,VA Kulkarni,CK Nandan
+1136573,Kolkata,2018-04-16,N Rana,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders,runs,71,N,NA,AK Chaudhary,A Nand Kishore
+1136574,Mumbai,2018-04-17,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,46,N,NA,RJ Tucker,Nitin Menon
+1136575,Jaipur,2018-04-18,N Rana,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,A Deshmukh,S Ravi
+1136576,Chandigarh,2018-04-19,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab,runs,15,N,NA,NJ Llong,AK Chaudhary
+1136577,Pune,2018-04-20,SR Watson,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,64,N,NA,KN Ananthapadmanabhan,Nitin Menon
+1136578,Kolkata,2018-04-21,KL Rahul,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,9,N,D/L,C Shamshuddin,A Deshmukh
+1136579,Bengaluru,2018-04-21,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6,N,NA,CB Gaffaney,CK Nandan
+1136580,Hyderabad,2018-04-22,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,4,N,NA,VA Kulkarni,AK Chaudhary
+1136581,Jaipur,2018-04-22,JC Archer,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,3,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1136582,Delhi,2018-04-23,AS Rajpoot,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Kings XI Punjab,runs,4,N,NA,A Nand Kishore,CK Nandan
+1136583,Mumbai,2018-04-24,Rashid Khan,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,31,N,NA,C Shamshuddin,S Ravi
+1136584,Bengaluru,2018-04-25,MS Dhoni,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,NJ Llong,VK Sharma
+1136585,Hyderabad,2018-04-26,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,13,N,NA,YC Barde,CK Nandan
+1136586,Delhi,2018-04-27,SS Iyer,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,55,N,NA,C Shamshuddin,S Ravi
+1136587,Pune,2018-04-28,RG Sharma,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,CB Gaffaney,Nitin Menon
+1136588,Jaipur,2018-04-29,KS Williamson,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11,N,NA,BNJ Oxenford,A Nand Kishore
+1136589,Bengaluru,2018-04-29,CA Lynn,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,NJ Llong,AK Chaudhary
+1136590,Pune,2018-04-30,SR Watson,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,13,N,NA,AY Dandekar,C Shamshuddin
+1136591,Bengaluru,2018-05-01,TG Southee,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,14,N,NA,M Erasmus,Nitin Menon
+1136592,Delhi,2018-05-02,RR Pant,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Delhi Daredevils,runs,4,N,D/L,VK Sharma,CK Nandan
+1136593,Kolkata,2018-05-03,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,HDPK Dharmasena,A Deshmukh
+1136594,Indore,2018-05-04,SA Yadav,Holkar Cricket Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,AY Dandekar,S Ravi
+1136595,Pune,2018-05-05,RA Jadeja,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,Nitin Menon,YC Barde
+1136596,Hyderabad,2018-05-05,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,7,N,NA,BNJ Oxenford,CK Nandan
+1136597,Mumbai,2018-05-06,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,13,N,NA,HDPK Dharmasena,A Deshmukh
+1136598,Indore,2018-05-06,Mujeeb Ur Rahman,Holkar Cricket Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,C Shamshuddin,S Ravi
+1136599,Hyderabad,2018-05-07,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,5,N,NA,BNJ Oxenford,VK Sharma
+1136600,Jaipur,2018-05-08,JC Buttler,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,runs,15,N,NA,M Erasmus,Nitin Menon
+1136601,Kolkata,2018-05-09,Ishan Kishan,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,102,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1136602,Delhi,2018-05-10,S Dhawan,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,9,N,NA,AY Dandekar,C Shamshuddin
+1136603,Jaipur,2018-05-11,JC Buttler,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,4,N,NA,M Erasmus,YC Barde
+1136604,Indore,2018-05-12,SP Narine,Holkar Cricket Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,31,N,NA,VK Sharma,CK Nandan
+1136605,Delhi,2018-05-12,AB de Villiers,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5,N,NA,KN Ananthapadmanabhan,HDPK Dharmasena
+1136606,Pune,2018-05-13,AT Rayudu,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8,N,NA,M Erasmus,YC Barde
+1136607,Mumbai,2018-05-13,JC Buttler,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,Nitin Menon,S Ravi
+1136608,Indore,2018-05-14,UT Yadav,Holkar Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10,N,NA,BNJ Oxenford,VK Sharma
+1136609,Kolkata,2018-05-15,Kuldeep Yadav,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,HDPK Dharmasena,AK Chaudhary
+1136610,Mumbai,2018-05-16,JJ Bumrah,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,3,N,NA,M Erasmus,Nitin Menon
+1136611,Bengaluru,2018-05-17,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,14,N,NA,AY Dandekar,S Ravi
+1136612,Delhi,2018-05-18,HV Patel,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Delhi Daredevils,runs,34,N,NA,VA Kulkarni,HDPK Dharmasena
+1136613,Jaipur,2018-05-19,S Gopal,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,runs,30,N,NA,BNJ Oxenford,VK Sharma
+1136614,Hyderabad,2018-05-19,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5,N,NA,AK Chaudhary,S Ravi
+1136615,Delhi,2018-05-20,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Delhi Daredevils,runs,11,N,NA,HDPK Dharmasena,CK Nandan
+1136616,Pune,2018-05-20,L Ngidi,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,Nitin Menon,YC Barde
+1136617,Mumbai,2018-05-22,F du Plessis,Wankhede Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,2,N,NA,C Shamshuddin,M Erasmus
+1136618,Kolkata,2018-05-23,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,25,N,NA,AK Chaudhary,Nitin Menon
+1136619,Kolkata,2018-05-25,Rashid Khan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,14,N,NA,HDPK Dharmasena,Nitin Menon
+1136620,Mumbai,2018-05-27,SR Watson,Wankhede Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8,N,NA,M Erasmus,S Ravi
+1175356,Chennai,2019-03-23,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,7,N,NA,AY Dandekar,BNJ Oxenford
+1175357,Kolkata,2019-03-24,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,N,NA,CB Gaffaney,AK Chaudhary
+1175358,Mumbai,2019-03-24,RR Pant,Wankhede Stadium,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,37,N,NA,YC Barde,S Ravi
+1175359,Jaipur,2019-03-25,CH Gayle,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Kings XI Punjab,runs,14,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1175360,Delhi,2019-03-26,SR Watson,Feroz Shah Kotla,0,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,6,N,NA,M Erasmus,Nitin Menon
+1175361,Kolkata,2019-03-27,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,28,N,NA,VA Kulkarni,AK Chaudhary
+1175362,Bengaluru,2019-03-28,JJ Bumrah,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,6,N,NA,CK Nandan,S Ravi
+1175363,Hyderabad,2019-03-29,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5,N,NA,C Shamshuddin,BNJ Oxenford
+1175364,Chandigarh,2019-03-30,MA Agarwal,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,VA Kulkarni,CB Gaffaney
+1175365,Delhi,2019-03-30,PP Shaw,Feroz Shah Kotla,0,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,tie,NA,Y,NA,AY Dandekar,Nitin Menon
+1175366,Hyderabad,2019-03-31,JM Bairstow,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,118,N,NA,KN Ananthapadmanabhan,S Ravi
+1175367,Chennai,2019-03-31,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8,N,NA,YC Barde,CK Nandan
+1175368,Chandigarh,2019-04-01,SM Curran,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,runs,14,N,NA,CB Gaffaney,AK Chaudhary
+1175369,Jaipur,2019-04-02,S Gopal,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,AY Dandekar,M Erasmus
+1175370,Mumbai,2019-04-03,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,37,N,NA,RJ Tucker,BNJ Oxenford
+1175371,Delhi,2019-04-04,JM Bairstow,Feroz Shah Kotla,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1175372,Bengaluru,2019-04-05,AD Russell,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,N,NA,CB Gaffaney,AK Chaudhary
+1178393,Chennai,2019-04-06,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,22,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1178394,Hyderabad,2019-04-06,AS Joseph,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,40,N,NA,AY Dandekar,Nitin Menon
+1178395,Bengaluru,2019-04-07,K Rabada,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,N,NA,YC Barde,S Ravi
+1178396,Jaipur,2019-04-07,HF Gurney,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,N,NA,CB Gaffaney,AK Chaudhary
+1178397,Chandigarh,2019-04-08,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,AY Dandekar,M Erasmus
+1178398,Chennai,2019-04-09,DL Chahar,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,7,N,NA,RJ Tucker,C Shamshuddin
+1178399,Mumbai,2019-04-10,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,3,N,NA,YC Barde,S Ravi
+1178400,Jaipur,2019-04-11,MS Dhoni,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,N,NA,UV Gandhe,BNJ Oxenford
+1178401,Kolkata,2019-04-12,S Dhawan,Eden Gardens,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,N,NA,YC Barde,CK Nandan
+1178402,Mumbai,2019-04-13,JC Buttler,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,Nitin Menon,A Nand Kishore
+1178403,Chandigarh,2019-04-13,AB de Villiers,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8,N,NA,UV Gandhe,S Ravi
+1178404,Kolkata,2019-04-14,Imran Tahir,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,RJ Tucker,CK Nandan
+1178405,Hyderabad,2019-04-14,KMA Paul,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,runs,39,N,NA,BNJ Oxenford,AK Chaudhary
+1178406,Mumbai,2019-04-15,SL Malinga,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,M Erasmus,Nitin Menon
+1178407,Chandigarh,2019-04-16,R Ashwin,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,12,N,NA,VA Kulkarni,AK Chaudhary
+1178408,Hyderabad,2019-04-17,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,6,N,NA,UV Gandhe,IJ Gould
+1178409,Delhi,2019-04-18,HH Pandya,Feroz Shah Kotla,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,40,N,NA,BNJ Oxenford,NJ Llong
+1178410,Kolkata,2019-04-19,V Kohli,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,10,N,NA,IJ Gould,Nitin Menon
+1178411,Jaipur,2019-04-20,SPD Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,YC Barde,S Ravi
+1178412,Delhi,2019-04-20,SS Iyer,Feroz Shah Kotla,0,Delhi Capitals,Kings XI Punjab,Delhi Capitals,field,Delhi Capitals,wickets,5,N,NA,UV Gandhe,C Shamshuddin
+1178413,Hyderabad,2019-04-21,KK Ahmed,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9,N,NA,NJ Llong,Nitin Menon
+1178414,Bengaluru,2019-04-21,PA Patel,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,1,N,NA,RJ Tucker,VA Kulkarni
+1178415,Jaipur,2019-04-22,RR Pant,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,N,NA,A Nand Kishore,S Ravi
+1178416,Chennai,2019-04-23,SR Watson,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,NJ Llong,AK Chaudhary
+1178417,Bengaluru,2019-04-24,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,17,N,NA,C Shamshuddin,BNJ Oxenford
+1178418,Kolkata,2019-04-25,VR Aaron,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,AY Dandekar,IJ Gould
+1178419,Chennai,2019-04-26,RG Sharma,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,46,N,NA,NJ Llong,AK Chaudhary
+1178420,Jaipur,2019-04-27,JD Unadkat,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,YC Barde,A Nand Kishore
+1178421,Delhi,2019-04-28,S Dhawan,Feroz Shah Kotla,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,16,N,NA,KN Ananthapadmanabhan,BNJ Oxenford
+1178422,Kolkata,2019-04-28,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34,N,NA,IJ Gould,Nitin Menon
+1178423,Hyderabad,2019-04-29,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,45,N,NA,CK Nandan,S Ravi
+1178424,Bengaluru,2019-04-30,NA,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA,NA,NA,UV Gandhe,NJ Llong
+1178425,Chennai,2019-05-01,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80,N,NA,AY Dandekar,Nitin Menon
+1178426,Mumbai,2019-05-02,JJ Bumrah,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,NA,Y,NA,CK Nandan,S Ravi
+1178427,Chandigarh,2019-05-03,Shubman Gill,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,C Shamshuddin,BNJ Oxenford
+1178428,Delhi,2019-05-04,A Mishra,Feroz Shah Kotla,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,wickets,5,N,NA,AY Dandekar,IJ Gould
+1178429,Bengaluru,2019-05-04,SO Hetmyer,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4,N,NA,NJ Llong,AK Chaudhary
+1178430,Chandigarh,2019-05-05,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1178431,Mumbai,2019-05-05,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,9,N,NA,A Nand Kishore,CK Nandan
+1181764,Chennai,2019-05-07,SA Yadav,"MA Chidambaram Stadium, Chepauk",0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,6,N,NA,NJ Llong,Nitin Menon
+1181766,Visakhapatnam,2019-05-08,RR Pant,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,2,N,NA,BNJ Oxenford,S Ravi
+1181767,Visakhapatnam,2019-05-10,F du Plessis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,BNJ Oxenford,S Ravi
+1181768,Hyderabad,2019-05-12,JJ Bumrah,"Rajiv Gandhi International Stadium, Uppal",0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1,N,NA,IJ Gould,Nitin Menon
+1216492,Abu Dhabi,2020-09-19,AT Rayudu,Sheikh Zayed Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,N,NA,CB Gaffaney,VK Sharma
+1216493,Dubai,2020-09-20,MP Stoinis,Dubai International Cricket Stadium,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,tie,NA,Y,NA,AK Chaudhary,Nitin Menon
+1216494,Abu Dhabi,2020-10-21,Mohammed Siraj,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,8,N,NA,VK Sharma,S Ravi
+1216495,Sharjah,2020-11-03,S Nadeem,Sharjah Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10,N,NA,C Shamshuddin,RK Illingworth
+1216496,Sharjah,2020-09-22,SV Samson,Sharjah Cricket Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,16,N,NA,C Shamshuddin,VA Kulkarni
+1216497,Abu Dhabi,2020-10-24,CV Varun,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,59,N,NA,CB Gaffaney,PG Pathak
+1216498,Dubai,2020-10-24,CJ Jordan,Dubai International Cricket Stadium,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,12,N,NA,AY Dandekar,PR Reiffel
+1216499,Abu Dhabi,2020-10-28,SA Yadav,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5,N,NA,UV Gandhe,CB Gaffaney
+1216500,Sharjah,2020-10-09,R Ashwin,Sharjah Cricket Stadium,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,46,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216501,Abu Dhabi,2020-10-07,RA Tripathi,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,10,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216502,Sharjah,2020-10-31,Sandeep Sharma,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,N,NA,KN Ananthapadmanabhan,K Srinivasan
+1216503,Abu Dhabi,2020-10-01,KA Pollard,Sheikh Zayed Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,48,N,NA,VK Sharma,S Ravi
+1216504,Dubai,2020-09-30,Shivam Mavi,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,37,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216505,Abu Dhabi,2020-11-02,A Nortje,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,N,NA,CB Gaffaney,S Ravi
+1216506,Abu Dhabi,2020-11-01,RD Gaikwad,Sheikh Zayed Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,9,N,NA,PG Pathak,VK Sharma
+1216507,Dubai,2020-10-11,R Tewatia,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,5,N,NA,YC Barde,PR Reiffel
+1216508,Abu Dhabi,2020-09-23,RG Sharma,Sheikh Zayed Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,49,N,NA,CB Gaffaney,S Ravi
+1216509,Sharjah,2020-10-17,S Dhawan,Sharjah Cricket Stadium,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,5,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216510,Dubai,2020-09-24,KL Rahul,Dubai International Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,97,N,NA,AK Chaudhary,PR Reiffel
+1216511,Abu Dhabi,2020-10-06,SA Yadav,Sheikh Zayed Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,57,N,NA,VK Sharma,S Ravi
+1216512,Abu Dhabi,2020-10-18,LH Ferguson,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,NA,Y,NA,PG Pathak,S Ravi
+1216513,Dubai,2020-10-04,SR Watson,Dubai International Cricket Stadium,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,10,N,NA,AY Dandekar,Nitin Menon
+1216514,Abu Dhabi,2020-10-03,YS Chahal,Sheikh Zayed Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,8,N,NA,CB Gaffaney,S Ravi
+1216515,Sharjah,2020-10-03,SS Iyer,Sharjah Cricket Stadium,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,18,N,NA,VA Kulkarni,RK Illingworth
+1216516,Dubai,2020-10-02,PK Garg,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7,N,NA,AK Chaudhary,PR Reiffel
+1216517,Dubai,2020-10-18,KL Rahul,Dubai International Cricket Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,tie,NA,Y,NA,Nitin Menon,PR Reiffel
+1216518,Dubai,2020-10-22,MK Pandey,Dubai International Cricket Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,N,NA,Nitin Menon,PR Reiffel
+1216519,Dubai,2020-10-05,AR Patel,Dubai International Cricket Stadium,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,59,N,NA,Nitin Menon,YC Barde
+1216520,Sharjah,2020-10-26,CH Gayle,Sharjah Cricket Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216521,Sharjah,2020-10-23,TA Boult,Sharjah Cricket Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,10,N,NA,C Shamshuddin,VA Kulkarni
+1216522,Dubai,2020-10-17,AB de Villiers,Dubai International Cricket Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,7,N,NA,AK Chaudhary,Nitin Menon
+1216523,Abu Dhabi,2020-10-10,KD Karthik,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,2,N,NA,UV Gandhe,CB Gaffaney
+1216524,Dubai,2020-10-27,WP Saha,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,88,N,NA,AK Chaudhary,Nitin Menon
+1216525,Dubai,2020-10-10,V Kohli,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,37,N,NA,AK Chaudhary,PR Reiffel
+1216526,Abu Dhabi,2020-10-16,Q de Kock,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,8,N,NA,CB Gaffaney,VK Sharma
+1216527,Sharjah,2020-09-27,SV Samson,Sharjah Cricket Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,RK Illingworth,K Srinivasan
+1216528,Dubai,2020-10-13,RA Jadeja,Dubai International Cricket Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,20,N,NA,AK Chaudhary,PR Reiffel
+1216529,Abu Dhabi,2020-10-11,Q de Kock,Sheikh Zayed Stadium,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5,N,NA,CB Gaffaney,S Ravi
+1216530,Dubai,2020-11-01,PJ Cummins,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,60,N,NA,Nitin Menon,PR Reiffel
+1216531,Sharjah,2020-10-15,KL Rahul,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216532,Abu Dhabi,2020-09-29,Rashid Khan,Sheikh Zayed Stadium,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,15,N,NA,VK Sharma,S Ravi
+1216533,Abu Dhabi,2020-10-19,JC Buttler,Sheikh Zayed Stadium,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,7,N,NA,CB Gaffaney,VK Sharma
+1216534,Dubai,2020-09-21,YS Chahal,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,10,N,NA,AY Dandekar,Nitin Menon
+1216535,Dubai,2020-10-31,Ishan Kishan,Dubai International Cricket Stadium,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9,N,NA,YC Barde,PR Reiffel
+1216536,Dubai,2020-10-29,RD Gaikwad,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,C Shamshuddin,RK Illingworth
+1216537,Abu Dhabi,2020-10-30,BA Stokes,Sheikh Zayed Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,CB Gaffaney,S Ravi
+1216538,Sharjah,2020-10-04,TA Boult,Sharjah Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,34,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216539,Dubai,2020-09-25,PP Shaw,Dubai International Cricket Stadium,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,44,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216540,Sharjah,2020-10-12,AB de Villiers,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,82,N,NA,RK Illingworth,K Srinivasan
+1216541,Abu Dhabi,2020-10-25,BA Stokes,Sheikh Zayed Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,8,N,NA,UV Gandhe,VK Sharma
+1216542,Dubai,2020-10-08,JM Bairstow,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,69,N,NA,AK Chaudhary,Nitin Menon
+1216543,Dubai,2020-10-14,A Nortje,Dubai International Cricket Stadium,0,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,13,N,NA,AK Chaudhary,Nitin Menon
+1216544,Dubai,2020-10-25,RD Gaikwad,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,8,N,NA,C Shamshuddin,RK Illingworth
+1216545,Abu Dhabi,2020-09-26,Shubman Gill,Sheikh Zayed Stadium,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7,N,NA,CB Gaffaney,VK Sharma
+1216546,Dubai,2020-10-20,S Dhawan,Dubai International Cricket Stadium,0,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,wickets,5,N,NA,C Shamshuddin,RK Illingworth
+1216547,Dubai,2020-09-28,AB de Villiers,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,tie,NA,Y,NA,Nitin Menon,PR Reiffel
+1237177,Dubai,2020-11-05,JJ Bumrah,Dubai International Cricket Stadium,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,57,N,NA,CB Gaffaney,Nitin Menon
+1237178,Abu Dhabi,2020-11-06,KS Williamson,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6,N,NA,PR Reiffel,S Ravi
+1237180,Abu Dhabi,2020-11-08,MP Stoinis,Sheikh Zayed Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17,N,NA,PR Reiffel,S Ravi
+1237181,Dubai,2020-11-10,TA Boult,Dubai International Cricket Stadium,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5,N,NA,CB Gaffaney,Nitin Menon
